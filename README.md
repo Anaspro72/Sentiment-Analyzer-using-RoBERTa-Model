@@ -22,8 +22,8 @@ Follow these steps to set up the project locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sentiment-analyzer.git
-cd sentiment-analyzer
+git clone https://github.com/Anaspro72/Sentiment-Analyzer-using-RoBERTa-Model.git
+cd Sentiment-Analyzer-using-RoBERTa-Model
 ```
 
 ### Create a Virtual Environment
@@ -51,9 +51,9 @@ This will start a local server. Open your browser and navigate to `http://localh
 
 ```plaintext
 sentiment-analyzer/
-├── app.py                 # Main Streamlit app
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
+├── sentiment_app.py                 # Main Streamlit app
+├── requirements.txt                 # Python dependencies
+├── README.md                        # Project documentation
 ```
 
 ## How It Works
