@@ -107,6 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:anask8726@gmail.com)
+- **Email**: [anask8726@gmail.com](mailto:anask8726@gmail.com)
 - **GitHub**: [Your GitHub Profile](https://github.com/Anaspro72)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anas-khan-a05730148/)
