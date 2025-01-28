@@ -1,0 +1,7 @@
+transformers
+huggingface-hub
+accelerate
+tensorflow
+scipy
+tf-keras
+streamlit
